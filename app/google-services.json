@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457119633282",
+    "project_id": "unsumeri",
+    "storage_bucket": "unsumeri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457119633282:android:c8b9860c45a97c51b6c99b",
+        "android_client_info": {
+          "package_name": "com.example.unsumeri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQeqjxZ2AVkddi9EV3ItA_pi_KvkKjQVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
