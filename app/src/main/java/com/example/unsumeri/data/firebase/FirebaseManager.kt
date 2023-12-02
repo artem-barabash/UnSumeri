@@ -1,10 +1,8 @@
-package com.example.unsumeri.data
+package com.example.unsumeri.data.firebase
 
 import com.example.unsumeri.domain.entities.User
 import com.google.firebase.database.DatabaseReference
 import com.google.firebase.database.FirebaseDatabase
-import com.google.firebase.database.Query
-import com.google.firebase.database.ValueEventListener
 
 class FirebaseManager {
 

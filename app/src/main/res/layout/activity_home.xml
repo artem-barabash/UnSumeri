@@ -38,7 +38,6 @@
             android:layout_height="wrap_content"
             android:background="@color/white"
             android:minHeight="62dp"
-            app:itemHorizontalTranslationEnabled="false"
             app:itemIconTint="@drawable/selected_item_menu"
             app:itemTextColor="@drawable/selected_item_menu"
             app:labelVisibilityMode="labeled"

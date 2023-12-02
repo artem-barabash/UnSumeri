@@ -40,4 +40,14 @@
     <string name="category_item">Categories</string>
     <string name="settings_item">Settings</string>
     <string name="profile_item">Profile</string>
+    <string name="add_btn_article_text">Add Article</string>
+
+    <string name="add_btn_text">Add</string>
+
+    <string name="change_category">Change Category</string>
+
+    <string name="change_btn">Change</string>
+
+    <string name="title_article">Title</string>
+    <string name="content_article">Content</string>
 </resources>

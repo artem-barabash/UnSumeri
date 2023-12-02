@@ -20,7 +20,7 @@ import androidx.lifecycle.lifecycleScope
 import androidx.navigation.Navigation
 import com.example.namespace.R
 import com.example.namespace.databinding.FragmentLoginBinding
-import com.example.unsumeri.data.FirebaseManager
+import com.example.unsumeri.data.firebase.FirebaseManager
 import com.example.unsumeri.domain.entities.LoggedInUserView
 import com.example.unsumeri.domain.entities.User
 import com.example.unsumeri.domain.use_cases.factory.LoginViewModelFactory
@@ -184,7 +184,6 @@ class LoginFragment : Fragment() {
                         println("login=$user")
 
                         saveDataSharedPreferences(user, key, password)
-
                     }
                     val intent = Intent(requireContext(), HomeActivity::class.java)
                     startActivity(intent)

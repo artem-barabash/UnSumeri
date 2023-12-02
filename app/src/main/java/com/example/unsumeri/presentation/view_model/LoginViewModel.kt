@@ -10,7 +10,7 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import android.util.Patterns
 import com.example.namespace.R
-import com.example.unsumeri.data.FirebaseManager
+import com.example.unsumeri.data.firebase.FirebaseManager
 import com.example.unsumeri.data.LoginRepository
 import com.example.unsumeri.data.Validator
 import com.example.unsumeri.domain.use_cases.Result

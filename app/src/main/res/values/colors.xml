@@ -12,4 +12,6 @@
     
     <color name="selected_item_color">#1877F2</color>
     <color name="item_color">#BF4E4B66</color>
+
+    <color name="btn_color">#1877F2</color>
 </resources>
